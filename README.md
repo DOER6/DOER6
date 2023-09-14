@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java and python...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...  qq:1763216546
-- 正在学习使用github的一名在校大二学生
+- 正在学习使用github的一名在校大三学生
 
 <!---
 DOER6/DOER6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
